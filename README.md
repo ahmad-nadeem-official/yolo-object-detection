@@ -61,8 +61,8 @@ You can easily run this project in your browser with Google Colab!
 **VIDEO DEMOS**
 ---------------
 
-**🎬 Input Video**: [View Input Video](https://github.com/user-attachments/assets/f924daaf-d1ac-4adc-99c5-53d34c9596ae)  
-**📤 Output Video**: [View Output Video](https://github.com/user-attachments/assets/6858b66a-3365-4f2f-9b90-a00dc22ade5c)
+**🎬 Input Video**: (https://github.com/user-attachments/assets/f924daaf-d1ac-4adc-99c5-53d34c9596ae)  
+**📤 Output Video**: (https://github.com/user-attachments/assets/6858b66a-3365-4f2f-9b90-a00dc22ade5c)
 
 * * *
 
